@@ -1,5 +1,8 @@
 # LLM Fine-Tuning — Learning Project
 
+<img width="785" height="284" alt="image" src="https://github.com/user-attachments/assets/80a62754-ee20-4efd-ab24-39c870d890f1" />
+
+
 A hands-on progression through the fundamentals of LLM training and fine-tuning using a tiny, fast model.
 
 **Model**: `HuggingFaceTB/SmolLM2-135M` — 135M params, ~270 MB  
